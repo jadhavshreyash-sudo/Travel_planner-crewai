@@ -1,0 +1,36 @@
+# Task 1: Researching the Destination
+research_task:
+  description: >
+    Research a comprehensive list of recommended places to visit, things to do, and food to eat in {city} for a {duration} trip. 
+    Focus Heavily on the user's {interests}. 
+    Provide specific names of shrines, restaurants, neighborhoods, or museums.
+  expected_output: >
+    A curated list of 8-12 specific attractions and dining spots in the city, complete with brief descriptions of why they fit the user's profile.
+  agent: 
+    local_expert
+
+
+# Task 2: Reviewing Logistics and Costs
+logistics_task :
+    description : >
+      Take the curated list of attractions from the research task. 
+      1. Group them loosely by geographic proximity or neighborhoods.
+      2. Estimate the entrance fees or average meal costs to ensure it fits a {budget} budget.
+      3. Suggest the most efficient transit methods (e.g., subway, walking) between these clusters.
+    expected_output: >
+      A logistical breakdown of the curated list, grouped by neighborhood, with estimated costs and recommended transit notes.
+    agent: 
+      logistics_specialist
+
+
+# Task 3: Building the Final Schedule
+itinerary_task : 
+    description: >
+      Assemble the final day-by-day itinerary for {city} lasting {duration}. 
+      Organize each day logically: Morning, Afternoon, and Evening blocks. 
+      Ensure the itinerary is geographically seamless (no zigzagging across the city). 
+      Include lunch/dinner recommendations and transit tips between morning and afternoon blocks.
+    expected_output: >
+      A beautifully formatted Markdown document containing a day-by-day, hour-by-hour itinerary with costs and logistics integrated.
+    agent: 
+      itinerary_optimizer
