@@ -76,4 +76,5 @@ class TravelPlanner():
             tasks=self.tasks,
             process=Process.sequential,
             verbose=True,
+            chat_llm=llm
         )

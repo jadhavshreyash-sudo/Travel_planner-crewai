@@ -1,62 +1,63 @@
 # Hyderabad, India 3-Day Itinerary
 ## Day 1: Old City Neighborhood
-
 ### Morning (9:00 AM - 12:00 PM)
-* 9:00 AM: Start the day at **Charminar**, a 400-year-old landmark and symbol of Hyderabad. Entrance fee is free, but camera fees apply (₹50 for still camera, ₹100 for video camera).
-* 10:00 AM: Walk to **Chowmahalla Palace** (10-15 minutes), a regal palace that adds to the city's cultural and historical charm. Entrance fee is ₹50 for Indians, ₹200 for foreigners.
-* 11:30 AM: Take a short walk to **Musi River** and enjoy the scenic views. Free to visit, but boat rides may cost ₹50-₹100 per person.
+* 9:00 AM: Start the day at **Charminar**, a historical shrine and iconic landmark in Hyderabad. Explore the surrounding street food scene and try some local snacks. (Estimated cost: $0.70-$1.40 USD)
+* 10:30 AM: Visit **Mecca Masjid**, one of the oldest and most revered mosques in India. Be sure to dress modestly and respect the mosque's rules. (Estimated cost: $0.70-$1.40 USD)
+* 12:00 PM: Take a short walk to **Laad Bazaar**, a popular street food spot in Hyderabad. Try some local street food dishes, such as biryani or kebabs. (Estimated cost: $0.70-$2.80 USD)
 
 ### Lunch (12:00 PM - 1:30 PM)
-* 12:00 PM: Try **Hyderabadi Biryani** at one of the many street food stalls in the area. Average meal cost is ₹200-₹300 per person.
+* Head to **Govinda Govinda**, a popular street food spot in Hyderabad, for lunch. Try their famous Telangana cuisine, such as biryani or dosas. (Estimated cost: $1.40-$4.20 USD)
 
 ### Afternoon (2:00 PM - 5:00 PM)
-* 2:00 PM: Continue exploring the Old City Neighborhood and visit the nearby **Laad Bazaar**, a famous market for bangles and other traditional items.
-* 4:00 PM: Take a break and relax at a local café or tea stall.
+* 2:00 PM: Take a bus or auto-rickshaw to the **Golconda Fort Neighborhood**. Visit **Golconda Fort**, a historic fort that showcases the city's rich cultural heritage. (Estimated cost: $2.80 USD for foreigners)
+* 4:00 PM: Explore the **Qutub Shahi Tombs**, a collection of tombs dedicated to the rulers of the Qutub Shahi dynasty. (Estimated cost: $0.70 USD for foreigners)
 
 ### Evening (6:00 PM - 9:00 PM)
-* 6:00 PM: Enjoy a traditional **Hyderabadi dinner** at a local restaurant, such as **Paradise Biryani** or **Shadab Restaurant**. Average meal cost is ₹500-₹1,000 per person.
-* 8:00 PM: End the day with a **night walk** around the Charminar area, taking in the sights and sounds of the city.
+* 6:00 PM: Head to **Paradise Biryani** for dinner. Try their famous biryani dishes, such as chicken or mutton biryani. (Estimated cost: $2.80-$7.00 USD)
+* 8:00 PM: Take a stroll around the **Hussain Sagar Lake**, a beautiful lake located in the heart of Hyderabad. Enjoy the peaceful surroundings and stunning views.
 
-## Day 2: Golconda Neighborhood
-
+## Day 2: Golconda Fort Neighborhood and Temple Cluster
 ### Morning (9:00 AM - 12:00 PM)
-* 9:00 AM: Start the day at **Golconda Fort**, a historic fort that showcases the city's rich history and architecture. Entrance fee is ₹15 for Indians, ₹200 for foreigners.
-* 11:00 AM: Visit the **Qutb Shahi Tombs**, a set of tombs that narrate the stories of the city's rulers and battles. Entrance fee is ₹10 for Indians, ₹100 for foreigners.
+* 9:00 AM: Visit **Paigah Tombs**, a collection of tombs dedicated to the Paigah family. Explore the stunning architecture and beautiful gardens. (Estimated cost: $0.70 USD for foreigners)
+* 11:00 AM: Take a bus or auto-rickshaw to the **Temple Cluster**. Visit **Swarnagiri Temple**, a beautiful temple located in the outskirts of Hyderabad. (Estimated cost: $0.70-$1.40 USD)
 
 ### Lunch (12:00 PM - 1:30 PM)
-* 12:00 PM: Take a taxi or auto-rickshaw (₹50-₹100) to a nearby restaurant, such as **Saket Bazar**, and try some local cuisine. Average meal cost is ₹200-₹300 per person.
+* Head to **Shadab Restaurant** for lunch. Try their famous Hyderabadi cuisine, such as biryani or kebabs. (Estimated cost: $2.80-$7.00 USD)
 
 ### Afternoon (2:00 PM - 5:00 PM)
-* 2:00 PM: Visit the **Taramati Baradari**, a historic pavilion that offers stunning views of the city.
-* 4:00 PM: Take a break and relax at a local café or tea stall.
+* 2:00 PM: Take a bus or auto-rickshaw to the **Lake Cluster**. Visit **Durgam Cheruvu**, a popular lake located in the outskirts of Hyderabad. Enjoy the peaceful surroundings and stunning views. (Estimated cost: $0.70-$1.40 USD)
+* 4:00 PM: Take a boat ride on the lake and enjoy the scenery.
 
 ### Evening (6:00 PM - 9:00 PM)
-* 6:00 PM: Enjoy a **traditional dinner** at a local restaurant, such as **Golconda Hotel** or **Taramati Baradari Restaurant**. Average meal cost is ₹500-₹1,000 per person.
-* 8:00 PM: End the day with a **cultural show** at the Taramati Baradari, featuring traditional music and dance performances.
+* 6:00 PM: Head to **Laad Bazaar** for dinner. Try some local street food dishes, such as biryani or kebabs. (Estimated cost: $0.70-$2.80 USD)
+* 8:00 PM: Take a stroll around the **Charminar** area and enjoy the lively atmosphere.
 
-## Day 3: Film City and Warangal Neighborhood
-
+## Day 3: Restaurant Cluster and Lake Cluster
 ### Morning (9:00 AM - 12:00 PM)
-* 9:00 AM: Take a taxi or bus (₹50-₹100) to **Ramoji Film City**, a popular tourist destination that offers a glimpse into the city's film industry and cultural heritage. Entrance fee is ₹1,200 per person (includes guided tour and attractions).
-* 11:00 AM: Explore the film city and enjoy the various attractions and shows.
+* 9:00 AM: Head to **Govinda Govinda** for breakfast. Try their famous Telangana cuisine, such as dosas or idlis. (Estimated cost: $1.40-$4.20 USD)
+* 11:00 AM: Take a bus or auto-rickshaw to the **Lake Cluster**. Visit **Hussain Sagar Lake** and enjoy the peaceful surroundings and stunning views. (Estimated cost: $0.70-$1.40 USD)
 
 ### Lunch (12:00 PM - 1:30 PM)
-* 12:00 PM: Try the **buffet lunch** at the film city, which offers a variety of cuisines. Average meal cost is ₹500-₹1,000 per person.
+* Head to **Paradise Biryani** for lunch. Try their famous biryani dishes, such as chicken or mutton biryani. (Estimated cost: $2.80-$7.00 USD)
 
 ### Afternoon (2:00 PM - 5:00 PM)
-* 2:00 PM: Visit the **Kakatiya star**, an ancient temple that is a must-visit for history and architecture enthusiasts. Entrance fee is free, but donations are welcome.
-* 4:00 PM: Take a taxi or auto-rickshaw (₹50-₹100) back to Hyderabad city center.
+* 2:00 PM: Take a bus or auto-rickshaw to the **Restaurant Cluster**. Visit **Shadab Restaurant** and try their famous Hyderabadi cuisine, such as biryani or kebabs. (Estimated cost: $2.80-$7.00 USD)
+* 4:00 PM: Explore the surrounding area and try some local street food dishes.
 
 ### Evening (6:00 PM - 9:00 PM)
-* 6:00 PM: Enjoy a **farewell dinner** at a local restaurant, such as **Ohri's** or **The Waterfront**. Average meal cost is ₹500-₹1,000 per person.
-* 8:00 PM: End the day with a **night walk** around the city, taking in the sights and sounds of Hyderabad.
+* 6:00 PM: Head to **Laad Bazaar** for dinner. Try some local street food dishes, such as biryani or kebabs. (Estimated cost: $0.70-$2.80 USD)
+* 8:00 PM: Take a stroll around the **Charminar** area and enjoy the lively atmosphere.
 
-## Budget Breakdown
+### Transit Tips
+* Use public transportation, such as buses or auto-rickshaws, to get around the city.
+* Take a taxi or ride-hailing service for longer distances or at night.
+* Be sure to negotiate the fare before getting into an auto-rickshaw or taxi.
 
-* Accommodation: Not included in this estimate
-* Transportation: ₹500-₹1,000 per day (depending on the mode of transport and distance)
-* Food: ₹500-₹1,000 per day (average meal cost is ₹200-₹300 per person)
-* Attractions: ₹500-₹1,500 per day (average entrance fee is ₹50-₹200 per person)
-* Total: ₹2,000-₹4,500 per day (excluding accommodation)
+### Budget Breakdown
+* Estimated daily cost: ₹1,500-3,000 per person (approximately $20-$40 USD)
+* Accommodation: not included in the estimate
+* Food: ₹500-1,000 per person per day (approximately $7-$14 USD)
+* Transportation: ₹200-500 per person per day (approximately $3-$7 USD)
+* Attractions: ₹500-1,000 per person per day (approximately $7-$14 USD)
 
-This estimate should fit a moderate budget of $150 per day, excluding accommodation. However, please note that prices may vary depending on individual preferences and exchange rates. It's always a good idea to research and book attractions and transportation in advance to get the best deals.
+Note: The estimated costs are subject to change and may vary depending on individual preferences and exchange rates.
